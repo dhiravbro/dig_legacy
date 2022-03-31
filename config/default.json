@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://pratik:pratik@cluster0.hn3od.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret" : "pratik"
+}
